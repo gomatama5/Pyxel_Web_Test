@@ -15,7 +15,9 @@ https://qiita.com/malo21st/items/32b7865e7c78d4ac2741
 
 https://qiita.com/Kazuhito/items/cf7f2e0f42f47e611f3e
 
-こちらの記事でWeb版のPyxelでPymunkを動かすのに大変なことをされていたので、もっと簡単に動かせないか試したら出来ました。
+こちらの記事でWeb版のPyxelでPymunkを動かせるようにPymunk公式さんに対応していただいたようで、素晴らしいですね！
+
+ただ、PyxelでPymunkモジュールをロードするのに大変なことをされていたので、もっと簡単に動かせないか試したら出来ました。
 
 動作確認URL：
 https://gomatama5.github.io/Pyxel_Web_Test/shot_bullet.html
