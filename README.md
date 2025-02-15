@@ -4,7 +4,7 @@ Web版Pyxel公式では、Pyodideで公式対応**している**モジュール�
 
 https://github.com/kitao/pyxel/blob/main/docs/pyxel-web-ja.md
 
-そこで、Pyodideで公式対応**していない**モジュールの導入方法について調べました。
+そこで、Pyodideで公式対応**していない**モジュールを**簡単に**導入する方法について調べました。
 
 ## PymunkをWeb版Pyxelで動かす
 Pyxel × Pymunkで物理シミュレーションを始めよう！
