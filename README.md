@@ -27,5 +27,5 @@ Web版のhtmlで
 というようにpackageの記述を追加するだけでOKです。
 
 ### 補足
-packageにpymunkのwheelファイルを指定しただけでは動かず、その前提となるcffiモジュールが必要だったので、その記述も追加したら動きました。
+packageにPymunkのWheelファイルを指定しただけでは動かず、その前提となるcffiモジュールが必要だったので、その記述も追加したら動きました。
 cffiモジュールはPyodide公式で対応しているのでpackageにcffiと書くだけでOKでした。
