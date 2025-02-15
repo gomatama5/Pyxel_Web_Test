@@ -1,4 +1,11 @@
 # Pyxel_Web_Test
+## 概要
+Web版Pyxel公式では、Pyodideで公式対応**している**モジュールの導入方法の説明があります。
+
+https://github.com/kitao/pyxel/blob/main/docs/pyxel-web-ja.md
+
+そこで、Pyodideで公式対応**していない**モジュールの導入方法について調べました。
+
 ## PymunkをWeb版Pyxelで動かす
 Pyxel × Pymunkで物理シミュレーションを始めよう！
 
@@ -28,4 +35,4 @@ Web版のhtmlで
 
 ### 補足
 packageにPymunkのWheelファイルを指定しただけでは動かず、その前提となるcffiモジュールが必要だったので、その記述も追加したら動きました。
-cffiモジュールはPyodide公式で対応しているのでpackageにcffiと書くだけでOKでした。
+cffiモジュールはPyodide公式対応しているのでpackageにcffiと書くだけでOKでした。
