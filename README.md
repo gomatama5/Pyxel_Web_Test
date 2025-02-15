@@ -35,7 +35,9 @@ Web版のhtmlで
 ```
 というようにpackageの記述を追加するだけでOKです。
 
-尚、PymunkのPyodide対応Wasm Wheelが置いてある場所は上記記事で紹介されていますので、そちらをご参照ください。
+尚、PymunkのPyodide対応Wasm Wheelは上記記事でも紹介されていますが、Pymunk公式GitHubのReleaseページにあります。
+
+https://github.com/viblo/pymunk
 
 ### 補足
 packageにPymunkのWheelファイルを指定しただけでは動かず、その前提となるcffiモジュールが必要だったので、その記述も追加したら動きました。
