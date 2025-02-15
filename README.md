@@ -12,3 +12,5 @@ https://qiita.com/Kazuhito/items/cf7f2e0f42f47e611f3e
 
 動作確認URL：
 https://gomatama5.github.io/Pyxel_Web_Test/shot_bullet.html
+
+最初の記事の.pyファイルをそのままWeb版のPyxelで動かせます！
